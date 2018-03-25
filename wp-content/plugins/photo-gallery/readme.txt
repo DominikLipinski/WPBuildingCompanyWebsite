@@ -3,7 +3,7 @@ Contributors: webdorado,wdsupport,photogallerysupport
 Tags: gallery, photo gallery, image gallery, responsive gallery, wordpress gallery plugin, photo albums, gallery slider, gallery lightbox, wordpress photo gallery plugin, fullscreen gallery, watermarking, video gallery
 Requires at least: 3.4
 Tested up to: 4.9 
-Stable tag: 1.3.69    
+Stable tag: 1.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -278,6 +278,15 @@ Choose whether to display random or the first/last specific number of images.
 
 
 == Changelog ==
+
+= 1.4.1 =
+* Fixed: Bugs on php5.3.
+
+= 1.4.0 =
+* Improved: User interface admin pages.   
+* Changed: Thumbnail view and lightbox default styles.    
+* Improved: Filemanager.    
+* Fixed: Big thumbnail responsiveness.    
 
 = 1.3.69 =
 * Changed: Default options and theme.   
